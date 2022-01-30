@@ -1,11 +1,3 @@
-/*
- * keylogger.cpp
- *
- * Sources:
- *   1. GetAsyncKeyState function: https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getasynckeystate
- *   2. Virtual-Key Codes: https://github.com/sepehrsohrabi/Decimal-Virtual-Key-Codes
- */
-
 #include <iostream>
 #include <Windows.h>
 #include <Winuser.h>

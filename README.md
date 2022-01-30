@@ -51,4 +51,4 @@ Note: Disable any antivirus software.
 
 _log.txt_ output:
 
-<!-- ![log-output output](output.png) -->
+![log-output output](output.png)
