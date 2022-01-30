@@ -48,8 +48,8 @@ QWERTYUIOP{}|ASDFGHJKL:"ZXCVBNM<>?
 4. Run _keylogger.exe_
 5. The program will terminate after a certain number(_max_ constant) of key strokes.
 6. Inspect _log.txt_
-
-Note: Disable any antivirus software.
+<!-- 
+Note: Disable any antivirus software. -->
 
 ## Output
 
