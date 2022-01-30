@@ -35,6 +35,10 @@ QWERTYUIOP{}|ASDFGHJKL:"ZXCVBNM<>?
 - [GetAsyncKeyState function](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getasynckeystate)
 - [Virtual-Key Codes](https://github.com/sepehrsohrabi/Decimal-Virtual-Key-Codes)
 
+## Note
+- FreeConsole(): Detaches the calling process from its console. It helps in running the program in background.
+- GetAsyncKeyState() can't tell the difference between upper and lower case letters. We would need to take SHIFT and CAPSLOCK into account in order to determine case.
+
 ## How to Run Keylogger [Using an IDE]
 
 1. Clone this repository from GitHub: $ https://github.com/aksuman055/keylogger
