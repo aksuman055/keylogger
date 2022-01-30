@@ -4,6 +4,14 @@
 
 Design a keylogger.
 
+## Overview
+
+Keylogger app is a C++ application that has basic functionalities of key logging software. Three primary goals of this app are:
+
+1. Execute in hidden mode in background.
+2. Detect and capture Keystrokes.
+3. Save keystrokes log in a text file.
+
 ## Description
 
 This keylogger supports the following characters and symbols:
@@ -17,14 +25,6 @@ QWERTYUIOP{}|ASDFGHJKL:"ZXCVBNM<>?
 [TAB][C0][C1][SHIFT][LCTRL][LWIN][LALT][SPACE][RALT][RWIN][MENU][RCTRL][ENTER][BACK]
 [DEL][INS][END][HOME][PGDN][PGUP][ARROWD][ARROWU][ARROWL][ARROWR]
 ```
-
-## Overview
-
-Keylogger app is a C++ application that has basic functionalities of key logging software. Three primary goals of this app are:
-
-1. Execute in hidden mode in background.
-2. Detect and capture Keystrokes.
-3. Save keystrokes log in a text file.
 
 ## Technology used
 
@@ -48,5 +48,7 @@ Keylogger app is a C++ application that has basic functionalities of key logging
 Note: Disable any antivirus software.
 
 ## Output
-*log.txt* output:
+
+_log.txt_ output:
+
 <!-- ![log-output output](output.png) -->
